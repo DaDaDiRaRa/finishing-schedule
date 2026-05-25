@@ -1,5 +1,7 @@
+from pathlib import Path
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 from routers import materials, rooms, schedule
 
 app = FastAPI(
@@ -24,3 +26,9 @@ app.include_router(schedule.router)
 @app.get("/health")
 def health():
     return {"status": "ok"}
+
+
+# 프로덕션: React 빌드 결과물 서빙 (로컬 개발 시 /app/static 없으면 스킵)
+_static = Path(__file__).parent / "static"
+if _static.exists():
+    app.mount("/", StaticFiles(directory=str(_static), html=True), name="static")
