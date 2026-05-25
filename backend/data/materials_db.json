@@ -1,0 +1,682 @@
+{
+  "FL-OAK-01": {
+    "name": "오크 원목마루",
+    "manufacturer": "동화자연마루",
+    "spec": "90×900×14T",
+    "unit": "㎡",
+    "note": "무광 UV코팅",
+    "category": "바닥"
+  },
+  "FL-OAK-02": {
+    "name": "오크 강마루",
+    "manufacturer": "동화자연마루",
+    "spec": "120×900×7T",
+    "unit": "㎡",
+    "note": "방수처리",
+    "category": "바닥"
+  },
+  "FL-TILE-01": {
+    "name": "포세린 타일",
+    "manufacturer": "LX하우시스",
+    "spec": "600×600×10T",
+    "unit": "㎡",
+    "note": "논슬립 처리",
+    "category": "바닥"
+  },
+  "FL-TILE-02": {
+    "name": "대형 포세린 타일",
+    "manufacturer": "LX하우시스",
+    "spec": "800×800×10T",
+    "unit": "㎡",
+    "note": "광택 마감",
+    "category": "바닥"
+  },
+  "FL-TILE-03": {
+    "name": "소형 모자이크 타일",
+    "manufacturer": "KCC",
+    "spec": "50×50×6T (300×300 유닛)",
+    "unit": "㎡",
+    "note": "욕실 전용",
+    "category": "바닥"
+  },
+  "FL-MRB-01": {
+    "name": "이탈리아산 대리석",
+    "manufacturer": "수입",
+    "spec": "600×600×20T",
+    "unit": "㎡",
+    "note": "카라라 화이트",
+    "category": "바닥"
+  },
+  "FL-VNL-01": {
+    "name": "LVT 바닥재",
+    "manufacturer": "LX하우시스",
+    "spec": "180×1220×3T",
+    "unit": "㎡",
+    "note": "방수·항균",
+    "category": "바닥"
+  },
+  "FL-EPC-01": {
+    "name": "에폭시 셀프레벨링",
+    "manufacturer": "삼화페인트",
+    "spec": "3mm 도막",
+    "unit": "㎡",
+    "note": "주차장·기계실 전용",
+    "category": "바닥"
+  },
+  "FL-CRP-01": {
+    "name": "타일카펫",
+    "manufacturer": "인터페이스",
+    "spec": "500×500×6T",
+    "unit": "㎡",
+    "note": "사무실 전용",
+    "category": "바닥"
+  },
+  "FL-CRP-02": {
+    "name": "롤카펫",
+    "manufacturer": "베이직하우스",
+    "spec": "두께 8T, 폭 3.66m",
+    "unit": "㎡",
+    "note": "회의실·복도",
+    "category": "바닥"
+  },
+  "FL-GRES-01": {
+    "name": "그레스 타일",
+    "manufacturer": "아이에이치",
+    "spec": "300×600×9T",
+    "unit": "㎡",
+    "note": "테라스·외부",
+    "category": "바닥"
+  },
+  "FL-WDPL-01": {
+    "name": "합판마루 (우드플로어)",
+    "manufacturer": "한솔홈데코",
+    "spec": "150×900×15T",
+    "unit": "㎡",
+    "note": "표준 거실용",
+    "category": "바닥"
+  },
+  "WL-GYP-01": {
+    "name": "석고보드 + 수성페인트",
+    "manufacturer": "KCC",
+    "spec": "9.5T 석고 + 수성 2회",
+    "unit": "㎡",
+    "note": "내벽 표준",
+    "category": "벽"
+  },
+  "WL-GYP-02": {
+    "name": "방수석고보드 + 에폭시",
+    "manufacturer": "KCC",
+    "spec": "12.5T 방수석고 + 에폭시 2회",
+    "unit": "㎡",
+    "note": "욕실·주방 인접벽",
+    "category": "벽"
+  },
+  "WL-TILE-01": {
+    "name": "세라믹 타일 (욕실)",
+    "manufacturer": "LX하우시스",
+    "spec": "300×600×8T",
+    "unit": "㎡",
+    "note": "세줄 줄눈",
+    "category": "벽"
+  },
+  "WL-TILE-02": {
+    "name": "대형 슬랩 타일",
+    "manufacturer": "마라지",
+    "spec": "1200×2400×6T",
+    "unit": "㎡",
+    "note": "줄눈 최소화",
+    "category": "벽"
+  },
+  "WL-MRB-01": {
+    "name": "대리석 벽체",
+    "manufacturer": "수입",
+    "spec": "600×1200×20T",
+    "unit": "㎡",
+    "note": "로비·고급 화장실",
+    "category": "벽"
+  },
+  "WL-GLZ-01": {
+    "name": "유리파티션",
+    "manufacturer": "KCC글라스",
+    "spec": "10T 강화유리",
+    "unit": "㎡",
+    "note": "사무공간 구획",
+    "category": "벽"
+  },
+  "WL-WPP-01": {
+    "name": "실크벽지",
+    "manufacturer": "LG하우시스",
+    "spec": "1060mm 폭",
+    "unit": "㎡",
+    "note": "거실·침실",
+    "category": "벽"
+  },
+  "WL-WPP-02": {
+    "name": "지정벽지 (친환경)",
+    "manufacturer": "신한벽지",
+    "spec": "1060mm 폭, 무형광",
+    "unit": "㎡",
+    "note": "어린이방·침실",
+    "category": "벽"
+  },
+  "WL-BRK-01": {
+    "name": "노출 벽돌",
+    "manufacturer": "성신산업",
+    "spec": "190×90×57",
+    "unit": "㎡",
+    "note": "인테리어 포인트",
+    "category": "벽"
+  },
+  "WL-ACP-01": {
+    "name": "알루미늄 복합패널",
+    "manufacturer": "알루코본드",
+    "spec": "4T (알루미늄 0.5+심재+알루미늄 0.5)",
+    "unit": "㎡",
+    "note": "외벽·간판배경",
+    "category": "벽"
+  },
+  "WL-STN-01": {
+    "name": "석재 패널 (화강암)",
+    "manufacturer": "국산",
+    "spec": "600×600×30T",
+    "unit": "㎡",
+    "note": "외벽 건식공법",
+    "category": "벽"
+  },
+  "WL-WD-01": {
+    "name": "목재 루버 벽체",
+    "manufacturer": "삼목",
+    "spec": "W60×H30 루버, @100",
+    "unit": "㎡",
+    "note": "사운드룸·라운지",
+    "category": "벽"
+  },
+  "WL-PERF-01": {
+    "name": "타공알루미늄 패널",
+    "manufacturer": "알루텍",
+    "spec": "3T 알루미늄, φ5@10",
+    "unit": "㎡",
+    "note": "흡음·포인트",
+    "category": "벽"
+  },
+  "CL-GYP-01": {
+    "name": "석고보드 천장 + 수성페인트",
+    "manufacturer": "KCC",
+    "spec": "9.5T + 수성 2회",
+    "unit": "㎡",
+    "note": "표준 천장",
+    "category": "천장"
+  },
+  "CL-GYP-02": {
+    "name": "석고보드 천장 (방화)",
+    "manufacturer": "KCC",
+    "spec": "12.5T 방화석고 + 수성 2회",
+    "unit": "㎡",
+    "note": "피난계단·기계실",
+    "category": "천장"
+  },
+  "CL-EXP-01": {
+    "name": "노출 콘크리트",
+    "manufacturer": "-",
+    "spec": "노출 + 투명 발수코팅",
+    "unit": "㎡",
+    "note": "인더스트리얼 컨셉",
+    "category": "천장"
+  },
+  "CL-ACT-01": {
+    "name": "암스트롱 텍스",
+    "manufacturer": "암스트롱",
+    "spec": "600×600×15T",
+    "unit": "㎡",
+    "note": "사무실 T-Bar 천장",
+    "category": "천장"
+  },
+  "CL-ACT-02": {
+    "name": "미네랄화이버 텍스",
+    "manufacturer": "USG Boral",
+    "spec": "600×600×19T",
+    "unit": "㎡",
+    "note": "회의실·강당",
+    "category": "천장"
+  },
+  "CL-MET-01": {
+    "name": "알루미늄 루버 천장",
+    "manufacturer": "헌터더글라스",
+    "spec": "W84 루버, @100",
+    "unit": "㎡",
+    "note": "로비·복도",
+    "category": "천장"
+  },
+  "CL-MET-02": {
+    "name": "알루미늄 그릴 천장",
+    "manufacturer": "알루텍",
+    "spec": "50×50 셀",
+    "unit": "㎡",
+    "note": "주차장·기계실",
+    "category": "천장"
+  },
+  "CL-WD-01": {
+    "name": "목재 루버 천장",
+    "manufacturer": "삼목",
+    "spec": "W60×H30 루버, @100",
+    "unit": "㎡",
+    "note": "레스토랑·카페",
+    "category": "천장"
+  },
+  "CL-STR-01": {
+    "name": "스트레치 천장",
+    "manufacturer": "바리솔",
+    "spec": "PVC 필름",
+    "unit": "㎡",
+    "note": "곡면 연출",
+    "category": "천장"
+  },
+  "CL-PERF-01": {
+    "name": "타공 석고보드 천장",
+    "manufacturer": "KCC",
+    "spec": "9.5T 타공석고 + 흡음재",
+    "unit": "㎡",
+    "note": "회의실·강의실",
+    "category": "천장"
+  },
+  "SK-TILE-01": {
+    "name": "타일 걸레받이",
+    "manufacturer": "LX하우시스",
+    "spec": "60×300×8T",
+    "unit": "m",
+    "note": "바닥 타일과 동종",
+    "category": "걸레받이"
+  },
+  "SK-WD-01": {
+    "name": "MDF 걸레받이 (목재)",
+    "manufacturer": "한솔홈데코",
+    "spec": "H75×T12",
+    "unit": "m",
+    "note": "페인트 마감",
+    "category": "걸레받이"
+  },
+  "SK-WD-02": {
+    "name": "오크 원목 걸레받이",
+    "manufacturer": "동화자연마루",
+    "spec": "H80×T15",
+    "unit": "m",
+    "note": "원목마루와 세트",
+    "category": "걸레받이"
+  },
+  "SK-ALU-01": {
+    "name": "알루미늄 걸레받이",
+    "manufacturer": "도날코",
+    "spec": "H80×T20 샷블라스트",
+    "unit": "m",
+    "note": "공공시설·상업",
+    "category": "걸레받이"
+  },
+  "SK-STN-01": {
+    "name": "스테인리스 걸레받이",
+    "manufacturer": "국산",
+    "spec": "H100×T1.2 헤어라인",
+    "unit": "m",
+    "note": "주방·의료시설",
+    "category": "걸레받이"
+  },
+  "SK-MRB-01": {
+    "name": "대리석 걸레받이",
+    "manufacturer": "수입",
+    "spec": "H100×T20",
+    "unit": "m",
+    "note": "로비·고급 공간",
+    "category": "걸레받이"
+  },
+  "SK-PVC-01": {
+    "name": "PVC 걸레받이",
+    "manufacturer": "LX하우시스",
+    "spec": "H60×T12",
+    "unit": "m",
+    "note": "경제형",
+    "category": "걸레받이"
+  },
+  "PT-WTR-01": {
+    "name": "수성 에멀전 페인트 (백색)",
+    "manufacturer": "KCC",
+    "spec": "2회 도장",
+    "unit": "㎡",
+    "note": "내부 표준",
+    "category": "도장"
+  },
+  "PT-WTR-02": {
+    "name": "수성 에멀전 페인트 (색상)",
+    "manufacturer": "KCC",
+    "spec": "지정색 2회 도장",
+    "unit": "㎡",
+    "note": "포인트 벽면",
+    "category": "도장"
+  },
+  "PT-EPC-01": {
+    "name": "에폭시 도장",
+    "manufacturer": "삼화페인트",
+    "spec": "하도+중도+상도 3회",
+    "unit": "㎡",
+    "note": "주차장·기계실 벽",
+    "category": "도장"
+  },
+  "PT-URE-01": {
+    "name": "우레탄 도장",
+    "manufacturer": "노루페인트",
+    "spec": "하도+상도 2회",
+    "unit": "㎡",
+    "note": "철재 구조물",
+    "category": "도장"
+  },
+  "PT-OIL-01": {
+    "name": "오일 스테인 (목재)",
+    "manufacturer": "시카",
+    "spec": "2회 도포",
+    "unit": "㎡",
+    "note": "목재 루버·데크",
+    "category": "도장"
+  },
+  "PT-ANT-01": {
+    "name": "방청 도장",
+    "manufacturer": "KCC",
+    "spec": "하도(방청)+상도 2회",
+    "unit": "㎡",
+    "note": "노출 철골",
+    "category": "도장"
+  },
+  "PT-FRP-01": {
+    "name": "방화 도장",
+    "manufacturer": "엔바이로텍",
+    "spec": "내화 1시간 기준",
+    "unit": "㎡",
+    "note": "철골 내화피복 대체",
+    "category": "도장"
+  },
+  "PT-MIC-01": {
+    "name": "마이크로시멘트",
+    "manufacturer": "올뉴",
+    "spec": "3~5mm 두께",
+    "unit": "㎡",
+    "note": "모던 인더스트리얼",
+    "category": "도장"
+  },
+  "PT-STU-01": {
+    "name": "규조토 마감",
+    "manufacturer": "에코홈",
+    "spec": "2mm 두께",
+    "unit": "㎡",
+    "note": "친환경·습도조절",
+    "category": "도장"
+  },
+  "PT-LCQ-01": {
+    "name": "락카 도장 (목공)",
+    "manufacturer": "KCC",
+    "spec": "하도+샌딩+상도 3회",
+    "unit": "㎡",
+    "note": "붙박이장·목공가구",
+    "category": "도장"
+  },
+  "FL-HWOOD-01": {
+    "name": "헤링본 원목마루",
+    "manufacturer": "동화자연마루",
+    "spec": "70×350×15T",
+    "unit": "㎡",
+    "note": "45도 헤링본 시공",
+    "category": "바닥"
+  },
+  "FL-CORK-01": {
+    "name": "코르크 바닥재",
+    "manufacturer": "아모림",
+    "spec": "300×600×6T",
+    "unit": "㎡",
+    "note": "방음·친환경",
+    "category": "바닥"
+  },
+  "FL-BMBOO-01": {
+    "name": "대나무마루",
+    "manufacturer": "케마루",
+    "spec": "130×900×12T",
+    "unit": "㎡",
+    "note": "친환경 인증",
+    "category": "바닥"
+  },
+  "FL-CONC-01": {
+    "name": "노출 콘크리트 바닥",
+    "manufacturer": "-",
+    "spec": "연마 + 방수코팅",
+    "unit": "㎡",
+    "note": "산업형 공간",
+    "category": "바닥"
+  },
+  "FL-DECK-01": {
+    "name": "방부목 데크",
+    "manufacturer": "한솔홈데코",
+    "spec": "120×20T @ 간격 5mm",
+    "unit": "㎡",
+    "note": "외부 테라스",
+    "category": "바닥"
+  },
+  "WL-CNC-01": {
+    "name": "노출 콘크리트 벽",
+    "manufacturer": "-",
+    "spec": "노출면 + 투명 방수코팅",
+    "unit": "㎡",
+    "note": "인더스트리얼",
+    "category": "벽"
+  },
+  "WL-VINL-01": {
+    "name": "PVC 비닐시트 벽체",
+    "manufacturer": "LX하우시스",
+    "spec": "1.8T",
+    "unit": "㎡",
+    "note": "청결구역 (주방·의료)",
+    "category": "벽"
+  },
+  "WL-CORK-01": {
+    "name": "코르크 벽판",
+    "manufacturer": "아모림",
+    "spec": "300×600×10T",
+    "unit": "㎡",
+    "note": "회의실 핀보드",
+    "category": "벽"
+  },
+  "WL-STL-01": {
+    "name": "스틸 패널",
+    "manufacturer": "포스코",
+    "spec": "2T 컬러강판",
+    "unit": "㎡",
+    "note": "로커룸·탈의실",
+    "category": "벽"
+  },
+  "WL-FBR-01": {
+    "name": "GRC 패널",
+    "manufacturer": "삼성물산",
+    "spec": "30T",
+    "unit": "㎡",
+    "note": "외벽 장식 패널",
+    "category": "벽"
+  },
+  "CL-CNVS-01": {
+    "name": "캔버스 천장",
+    "manufacturer": "루치아노",
+    "spec": "캔버스 원단 텐션",
+    "unit": "㎡",
+    "note": "카페·레스토랑",
+    "category": "천장"
+  },
+  "CL-GLZ-01": {
+    "name": "유리 천장 (스카이라이트)",
+    "manufacturer": "KCC글라스",
+    "spec": "복층유리 22T",
+    "unit": "㎡",
+    "note": "아트리움·복도 톱라이트",
+    "category": "천장"
+  },
+  "CL-PNL-01": {
+    "name": "MDF 도장 패널 천장",
+    "manufacturer": "자체제작",
+    "spec": "18T MDF + 락카",
+    "unit": "㎡",
+    "note": "카페·쇼룸",
+    "category": "천장"
+  },
+  "CL-EXP-02": {
+    "name": "노출 배관 천장 (도장)",
+    "manufacturer": "-",
+    "spec": "배관 흑색도장 + 보온재",
+    "unit": "㎡",
+    "note": "카페·사무실 인더스트리얼",
+    "category": "천장"
+  },
+  "SK-GYP-01": {
+    "name": "석고보드 걸레받이 (도장)",
+    "manufacturer": "KCC",
+    "spec": "H100×T9.5 + 수성도장",
+    "unit": "m",
+    "note": "내부 저비용",
+    "category": "걸레받이"
+  },
+  "SK-GLS-01": {
+    "name": "유리 걸레받이",
+    "manufacturer": "KCC글라스",
+    "spec": "H100×T10 강화유리",
+    "unit": "m",
+    "note": "고급 로비",
+    "category": "걸레받이"
+  },
+  "PT-CHL-01": {
+    "name": "칠판 도료",
+    "manufacturer": "노루페인트",
+    "spec": "흑색·녹색 2회",
+    "unit": "㎡",
+    "note": "카페·어린이공간",
+    "category": "도장"
+  },
+  "PT-MAG-01": {
+    "name": "자석 도료",
+    "manufacturer": "마그네파인트",
+    "spec": "3회 도포 후 수성 2회",
+    "unit": "㎡",
+    "note": "사무실 화이트보드",
+    "category": "도장"
+  },
+  "PT-FLR-01": {
+    "name": "형광 도료",
+    "manufacturer": "KCC",
+    "spec": "형광 안전색 2회",
+    "unit": "㎡",
+    "note": "피난 유도선",
+    "category": "도장"
+  },
+  "FL-QRTZ-01": {
+    "name": "쿼츠스톤 바닥",
+    "manufacturer": "쏠리드",
+    "spec": "600×1200×20T",
+    "unit": "㎡",
+    "note": "주방·욕실 고급형",
+    "category": "바닥"
+  },
+  "FL-INDR-01": {
+    "name": "인조대리석 바닥",
+    "manufacturer": "LX하우시스",
+    "spec": "600×600×15T",
+    "unit": "㎡",
+    "note": "에코 마감",
+    "category": "바닥"
+  },
+  "WL-QRTZ-01": {
+    "name": "쿼츠스톤 벽",
+    "manufacturer": "쏠리드",
+    "spec": "600×1200×12T",
+    "unit": "㎡",
+    "note": "주방 백패널",
+    "category": "벽"
+  },
+  "WL-INDR-01": {
+    "name": "인조대리석 벽",
+    "manufacturer": "LX하우시스",
+    "spec": "600×1200×12T",
+    "unit": "㎡",
+    "note": "욕실·주방",
+    "category": "벽"
+  },
+  "CL-SPY-01": {
+    "name": "스프레이 흡음재",
+    "manufacturer": "엘코트",
+    "spec": "25mm 두께",
+    "unit": "㎡",
+    "note": "기계실·스튜디오",
+    "category": "천장"
+  },
+  "CL-ROCK-01": {
+    "name": "암면흡음 천장",
+    "manufacturer": "KCC",
+    "spec": "T40 암면 + 타공석고",
+    "unit": "㎡",
+    "note": "방음 강화",
+    "category": "천장"
+  },
+  "SK-RUB-01": {
+    "name": "고무 걸레받이",
+    "manufacturer": "럭키산업",
+    "spec": "H80×T10",
+    "unit": "m",
+    "note": "체육관·복도",
+    "category": "걸레받이"
+  },
+  "SK-VINL-01": {
+    "name": "비닐 걸레받이",
+    "manufacturer": "LX하우시스",
+    "spec": "H60×T8",
+    "unit": "m",
+    "note": "병원·청결구역",
+    "category": "걸레받이"
+  },
+  "PT-ZNC-01": {
+    "name": "아연도금 + 도장",
+    "manufacturer": "포스코",
+    "spec": "아연도금 후 프라이머+상도",
+    "unit": "㎡",
+    "note": "외부 철재",
+    "category": "도장"
+  },
+  "PT-ALK-01": {
+    "name": "알키드 도료",
+    "manufacturer": "삼화페인트",
+    "spec": "2회 도장",
+    "unit": "㎡",
+    "note": "목공·금속 외부",
+    "category": "도장"
+  },
+  "FL-SAFE-01": {
+    "name": "안전 바닥재 (스포츠)",
+    "manufacturer": "타라플렉스",
+    "spec": "8T 충격흡수",
+    "unit": "㎡",
+    "note": "체육관·헬스장",
+    "category": "바닥"
+  },
+  "FL-ANTST-01": {
+    "name": "정전기방지 바닥재",
+    "manufacturer": "LX하우시스",
+    "spec": "ESD 타일 600×600",
+    "unit": "㎡",
+    "note": "서버실·전산실",
+    "category": "바닥"
+  },
+  "WL-MESH-01": {
+    "name": "메탈 메쉬 스크린",
+    "manufacturer": "알루텍",
+    "spec": "2T 알루미늄 메쉬",
+    "unit": "㎡",
+    "note": "파사드·선샤이딩",
+    "category": "벽"
+  },
+  "CL-ZNC-01": {
+    "name": "아연도금 천장틀 노출",
+    "manufacturer": "-",
+    "spec": "경량철골 노출 + 회색도장",
+    "unit": "㎡",
+    "note": "창고·물류센터",
+    "category": "천장"
+  }
+}
