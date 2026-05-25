@@ -1,5 +1,5 @@
 import axios from "axios"
-import type { Material, MaterialCreate, Room, RoomCreate, FinishRow } from "../types"
+import type { Material, Room, RoomCreate, FinishRow } from "../types"
 
 const api = axios.create({ baseURL: "/api" })
 
